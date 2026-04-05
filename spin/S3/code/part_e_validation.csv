@@ -1,0 +1,4 @@
+current_ma,spherical_phi_frequency_GHz,vector_phi_frequency_GHz,phi_frequency_difference_MHz,spherical_theta_deg,vector_theta_deg,theta_difference_deg
+1.600,4.647756,4.647756,0.000000,61.695673,61.695673,0.000000
+1.800,4.303475,4.303475,0.000001,67.279295,67.279295,0.000000
+2.000,4.064591,4.064591,0.000000,70.952655,70.952655,0.000000
